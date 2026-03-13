@@ -1,0 +1,3 @@
+[submodule "query-sql"]
+	path = query-sql
+	url = git@github.com:rs-cx/query-sql.git
