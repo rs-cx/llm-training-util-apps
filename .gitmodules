@@ -1,6 +1,0 @@
-[submodule "query-sql"]
-	path = query-sql
-	url = git@github.com:rs-cx/query-sql.git
-[submodule "execute-python-by-api"]
-	path = execute-python-by-api
-	url = git@github.com:rs-cx/execute-python-by-api.git
